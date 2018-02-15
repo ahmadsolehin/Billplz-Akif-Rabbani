@@ -1,3 +1,3 @@
 # Billplz-Akif-Rabbani
 
-- code originally by akif rabbani 2016
+-code originally by akif rabbani 2016
